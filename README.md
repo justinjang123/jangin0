@@ -1,7 +1,3 @@
 # jangin0
 
-gggg
-ggggg
-ㅎㅎㅎ
-
-
+안녕하세요.
