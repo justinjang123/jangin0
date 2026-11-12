@@ -1,89 +1,50 @@
-.md - 마크다운
-마크다운은 엔터를 줄바꿈으로 인정하지 X
+# 👋 안녕하세요, 데이터에서 흐름을 읽는 분석가 `홍길동(이름/닉네임)`입니다.
 
-엔터가 두 번 되어야 다른 문단으로 인식
+> **"통계적 시각으로 시계열과 금융 시장의 패턴을 탐구합니다."**
 
-공백두번(..)
-같은 문단 내 줄바꿈으로 인식
+통계학을 기반으로 Python 데이터 분석의 세계에 입문한 지 **2개월 차**인 데이터 분석가입니다.  
+단순한 수치 요약을 넘어, 시간에 따라 변화하는 데이터(**Time Series**)와 **주식 시장(Stock Market)**의 변동성을 통계적 모델로 해석하는 것에 큰 흥미를 느끼고 매일 기록하며 성장하고 있습니다.
 
-문단 줄바꿈
-문단 내 줄바꿈<br>줄바꿈
-
-# 제목1
-#바로붙으면. # 다음에 숫자를 붙여서 이슈
-호출이나 연관 가능
-옵시디언, 메모 앱들은 $ 다음으로 태그로 씀
-(노션, 슬랙, 디스코들... #????)
-## 제목2
-### 제목3
-- 일반적 국가적 룰.
-###### 제목6
-####### 제목7 (일반적으로 #, ##은 구분선을
- 사용해서 제목과 부제목을 의미)
-
- ---
- ___
-
-순서 없는 리스트
-- 순서가 없음
-- 내가 좋아하는 건
-    - 수박
-    - 캔디
-    - neon
-탭등을 사용한 들여쓰기
-        -???
-* 별표도 된다
-+ 플러스도 됩니다.
-
- 순서 있는 리스트
-
- 1. 리센느 - with
- 2. 리센느 - 백화요란
- 4. A20 lite- Neon
- 1. A20 SOul
- 11. A20 May
 ---
-1.
-1.
-1.
- <!-- ctrl + / -->
 
-- [] 체크박스? -
-github issue, readme
-해석시 특수문법
-- [x] 이게 체크된 것
+### 🔍 Interests & Focus
+- 📈 **Stock Market Analysis**: 주가 데이터 수집(`yfinance`, `FinanceDataReader`), 기술적 지표 산출 및 백테스팅 기초
+- ⏳ **Time Series Analysis**: 정상성(Stationarity) 검정, 이동평균, ARIMA 등 통계 기반 시계열 모델링
+- 📊 **Statistical Modeling**: 가설 검정, 회귀 분석, 데이터 분포 탐색 및 시각화
 
-==ㄹㄹㄹ==
+---
 
-*기울이기* _기울이기_ 
-**진하게** __진하게__
-***기울진*** ___기울진___
-* 내가 원한 건 
-말머리표인데
-*붙여가지고 안뜨거나
-*앞뒤로붙여서기울거나*
+### 🛠 Tech Stack
 
-~~취소선~~ <mark>형광펜
-태그</mark>
-`~~취소선~~`
+**Language & Environment**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-` ` - 인라인 코드
-```
-코드박스
-12345678
-```
+**Data Analysis & Statistics**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-2B5B84?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-```python
-print("Hello World")
+**Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-```mermaid
-graph
+---
 
- 
- 
-```
+### 📂 Featured Study & Projects
+| 프로젝트 / 스터디 | 주요 내용 | 사용 기술 |
+| :--- | :--- | :--- |
+| **[`주식 데이터 탐색 리포지토리 이름`](`https://github.com/본인아이디/리포지토리1`)** | `주요 종목의 일별 수익률 분포 확인 및 이동평균선 시각화 분석` | `Python`, `Pandas`, `Matplotlib` |
+| **[`시계열 & 통계 스터디 리포지토리 이름`](`https://github.com/본인아이디/리포지토리2`)** | `기초 통계 가설검정 실습 및 시계열 데이터 분해(Trend/Seasonality) 기록` | `Statsmodels`, `SciPy` |
 
-> 인용
-> > 인용 안에 인용
-> > > 인용안에 인용 안에 인용
+---
 
+### 📫 Contact & Channels
+- **Email**: `your_email@example.com`
+- **Blog**: [`블로그 이름 (Velog, Tistory 등)`](`https://본인블로그주소`)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=`본인_깃허브_아이디`&show_icons=true&theme=flat)
